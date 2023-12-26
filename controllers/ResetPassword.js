@@ -105,9 +105,5 @@ exports.resetPassword = async (req, res) => {
 }
 
 
-// resetPasswordToken 
 
 
-
-
-// resetPassword 
